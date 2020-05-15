@@ -1,0 +1,19 @@
+#jc{	
+	display: flex;
+	justify-content: space-between;
+}
+#ai{	
+	height: 300px;
+	display: flex;
+	align-items: center;
+}
+#ac{	
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.div{
+	width: 500px;
+	height: 50px;
+	background-color: red;
+}
